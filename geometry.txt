@@ -1,1 +1,3 @@
-A different change of math symbols and stuff.
+<<<<<<< HEAD
+A change here math symbols and stuff.
+>>>>>>> nap
